@@ -1,0 +1,1556 @@
+{
+  "Actor": {
+    "top_skills": [
+      "Stage Combat",
+      "Improvisation",
+      "Cold Reading",
+      "Method Acting",
+      "Vocal Training",
+      "Analytical Thinking",
+      "Problem Solving",
+      "Attention To Detail"
+    ],
+    "top_interests": [
+      "Drama",
+      "Theater",
+      "Cinema",
+      "Character Study",
+      "Arts"
+    ],
+    "top_talents": [
+      "Communication",
+      "Attention To Detail",
+      "Patience",
+      "Creativity",
+      "Analytical Thinking"
+    ],
+    "top_likes": [
+      "Networking",
+      "Helping Others",
+      "Learning New Things",
+      "Research",
+      "Problem Solving"
+    ],
+    "specializations": [
+      "Journalism",
+      "Mass Communication",
+      "Performing Arts"
+    ],
+    "education": [
+      "High School",
+      "Intermediate"
+    ]
+  },
+  "Broadcaster": {
+    "top_skills": [
+      "On-Air Presentation",
+      "Teleprompter Reading",
+      "Live Broadcasting",
+      "Voice Modulation",
+      "Presentation Skills",
+      "Analytical Thinking",
+      "Problem Solving",
+      "Ms Office"
+    ],
+    "top_interests": [
+      "Television",
+      "Radio",
+      "Broadcasting",
+      "Broadcast Journalism",
+      "Innovation"
+    ],
+    "top_talents": [
+      "Analytical Thinking",
+      "Attention To Detail",
+      "Empathy",
+      "Critical Thinking",
+      "Communication"
+    ],
+    "top_likes": [
+      "Networking",
+      "Writing",
+      "Teamwork",
+      "Helping Others",
+      "Research"
+    ],
+    "specializations": [
+      "Arts",
+      "Mass Communication",
+      "Performing Arts"
+    ],
+    "education": [
+      "Bachelor's",
+      "Intermediate"
+    ]
+  },
+  "Business Analyst": {
+    "top_skills": [
+      "Agile Methodology",
+      "Gap Analysis",
+      "Swot Analysis",
+      "Jira",
+      "Use Case Writing",
+      "Problem Solving",
+      "Ms Office",
+      "Communication"
+    ],
+    "top_interests": [
+      "Enterprise Solutions",
+      "Product Management",
+      "Business Intelligence",
+      "Digital Transformation",
+      "Science"
+    ],
+    "top_talents": [
+      "Empathy",
+      "Creativity",
+      "Critical Thinking",
+      "Attention To Detail",
+      "Leadership"
+    ],
+    "top_likes": [
+      "Reading",
+      "Networking",
+      "Research",
+      "Helping Others",
+      "Learning New Things"
+    ],
+    "specializations": [
+      "Business",
+      "Commerce",
+      "Computer Science"
+    ],
+    "education": [
+      "Bachelor's",
+      "Postgraduate"
+    ]
+  },
+  "Dancer": {
+    "top_skills": [
+      "Dance Notation",
+      "Ballet",
+      "Flexibility Training",
+      "Contemporary Dance",
+      "Choreography",
+      "Problem Solving",
+      "Communication",
+      "Research"
+    ],
+    "top_interests": [
+      "Dance",
+      "Physical Performance",
+      "Movement Arts",
+      "Choreography",
+      "Healthcare"
+    ],
+    "top_talents": [
+      "Leadership",
+      "Analytical Thinking",
+      "Communication",
+      "Attention To Detail",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Writing",
+      "Networking",
+      "Helping Others",
+      "Reading",
+      "Problem Solving"
+    ],
+    "specializations": [
+      "Arts",
+      "Performing Arts",
+      "Physical Education"
+    ],
+    "education": [
+      "High School",
+      "Intermediate"
+    ]
+  },
+  "Data Entry Operator": {
+    "top_skills": [
+      "Transcription",
+      "Data Entry",
+      "Tally",
+      "10-Key Typing",
+      "Typing Speed",
+      "Leadership",
+      "Critical Thinking",
+      "Project Management"
+    ],
+    "top_interests": [
+      "Administrative Work",
+      "Data Management",
+      "Process Compliance",
+      "Office Administration",
+      "Technology"
+    ],
+    "top_talents": [
+      "Leadership",
+      "Critical Thinking",
+      "Communication",
+      "Analytical Thinking",
+      "Creativity"
+    ],
+    "top_likes": [
+      "Writing",
+      "Problem Solving",
+      "Helping Others",
+      "Networking",
+      "Learning New Things"
+    ],
+    "specializations": [
+      "Arts",
+      "Business",
+      "Science"
+    ],
+    "education": [
+      "Bachelor's",
+      "Matric"
+    ]
+  },
+  "Dentist": {
+    "top_skills": [
+      "Crown And Bridge",
+      "Orthodontics",
+      "Radiography",
+      "Root Canal Treatment",
+      "Prosthodontics",
+      "Time Management",
+      "Report Writing",
+      "Communication"
+    ],
+    "top_interests": [
+      "Public Oral Health",
+      "Oral Health",
+      "Aesthetic Dentistry",
+      "Dental Research",
+      "Public Speaking"
+    ],
+    "top_talents": [
+      "Patience",
+      "Critical Thinking",
+      "Creativity",
+      "Attention To Detail",
+      "Empathy"
+    ],
+    "top_likes": [
+      "Research",
+      "Helping Others",
+      "Writing",
+      "Learning New Things",
+      "Reading"
+    ],
+    "specializations": [
+      "Biology",
+      "Medicine",
+      "Science"
+    ],
+    "education": [
+      "Bachelor's",
+      "Doctorate"
+    ]
+  },
+  "Diplomat": {
+    "top_skills": [
+      "Treaty Drafting",
+      "Geopolitical Analysis",
+      "Multilateral Negotiation",
+      "Protocol Management",
+      "Analytical Thinking",
+      "Report Writing",
+      "Ms Office",
+      "Communication"
+    ],
+    "top_interests": [
+      "Diplomacy",
+      "Cultural Diplomacy",
+      "Geopolitics",
+      "International Affairs",
+      "Education"
+    ],
+    "top_talents": [
+      "Patience",
+      "Leadership",
+      "Empathy",
+      "Attention To Detail",
+      "Creativity"
+    ],
+    "top_likes": [
+      "Learning New Things",
+      "Networking",
+      "Writing",
+      "Problem Solving",
+      "Helping Others"
+    ],
+    "specializations": [
+      "International Relations",
+      "Law",
+      "Political Science"
+    ],
+    "education": [
+      "PhD",
+      "Postgraduate"
+    ]
+  },
+  "Doctor": {
+    "top_skills": [
+      "Differential Diagnosis",
+      "Pharmacology",
+      "Medical Diagnosis",
+      "Clinical Examination",
+      "Teamwork",
+      "Problem Solving",
+      "Attention To Detail",
+      "Analytical Thinking"
+    ],
+    "top_interests": [
+      "Human Biology",
+      "Medical Innovation",
+      "Clinical Practice",
+      "Disease Management",
+      "Community Service"
+    ],
+    "top_talents": [
+      "Empathy",
+      "Leadership",
+      "Communication",
+      "Attention To Detail",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Teamwork",
+      "Reading",
+      "Networking",
+      "Helping Others",
+      "Writing"
+    ],
+    "specializations": [
+      "Biology",
+      "Medicine",
+      "Science"
+    ],
+    "education": [
+      "PhD",
+      "Postgraduate"
+    ]
+  },
+  "Filmmaker": {
+    "top_skills": [
+      "Storyboarding",
+      "Color Grading",
+      "Post-Production",
+      "Adobe Premiere",
+      "Cinematography",
+      "Critical Thinking",
+      "Problem Solving",
+      "Data Analysis"
+    ],
+    "top_interests": [
+      "Film History",
+      "Documentary",
+      "Cinema",
+      "Screenwriting",
+      "Arts"
+    ],
+    "top_talents": [
+      "Patience",
+      "Critical Thinking",
+      "Analytical Thinking",
+      "Leadership",
+      "Creativity"
+    ],
+    "top_likes": [
+      "Writing",
+      "Networking",
+      "Reading",
+      "Research",
+      "Helping Others"
+    ],
+    "specializations": [
+      "Arts",
+      "Journalism",
+      "Mass Communication"
+    ],
+    "education": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  "Financial Analyst": {
+    "top_skills": [
+      "Portfolio Analysis",
+      "Financial Modeling",
+      "Valuation",
+      "Bloomberg Terminal",
+      "Dcf Analysis",
+      "Teamwork",
+      "Data Analysis",
+      "Leadership"
+    ],
+    "top_interests": [
+      "Stock Market",
+      "Investment",
+      "Wealth Management",
+      "Economic Policy",
+      "Healthcare"
+    ],
+    "top_talents": [
+      "Analytical Thinking",
+      "Patience",
+      "Critical Thinking",
+      "Attention To Detail",
+      "Creativity"
+    ],
+    "top_likes": [
+      "Teamwork",
+      "Helping Others",
+      "Reading",
+      "Networking",
+      "Writing"
+    ],
+    "specializations": [
+      "Commerce",
+      "Economics",
+      "Finance"
+    ],
+    "education": [
+      "Bachelor's",
+      "Postgraduate"
+    ]
+  },
+  "Game Designer": {
+    "top_skills": [
+      "Unreal Engine",
+      "Level Design",
+      "Narrative Design",
+      "Unity",
+      "Game Mechanics",
+      "Attention To Detail",
+      "Stakeholder Management",
+      "Problem Solving"
+    ],
+    "top_interests": [
+      "Interactive Media",
+      "Gaming Culture",
+      "Game Psychology",
+      "Virtual Reality",
+      "Community Service"
+    ],
+    "top_talents": [
+      "Attention To Detail",
+      "Communication",
+      "Empathy",
+      "Critical Thinking",
+      "Leadership"
+    ],
+    "top_likes": [
+      "Problem Solving",
+      "Learning New Things",
+      "Helping Others",
+      "Teamwork",
+      "Research"
+    ],
+    "specializations": [
+      "Arts",
+      "Computer Science",
+      "Design"
+    ],
+    "education": [
+      "Master's",
+      "Undergraduate"
+    ]
+  },
+  "Journalist": {
+    "top_skills": [
+      "Fact Checking",
+      "Investigative Reporting",
+      "Story Pitching",
+      "Multimedia Journalism",
+      "Problem Solving",
+      "Teamwork",
+      "Project Management",
+      "Report Writing"
+    ],
+    "top_interests": [
+      "Investigative Reporting",
+      "Press Freedom",
+      "Current Affairs",
+      "Documentary Journalism",
+      "Community Service"
+    ],
+    "top_talents": [
+      "Communication",
+      "Leadership",
+      "Analytical Thinking",
+      "Empathy",
+      "Attention To Detail"
+    ],
+    "top_likes": [
+      "Teamwork",
+      "Networking",
+      "Learning New Things",
+      "Helping Others",
+      "Research"
+    ],
+    "specializations": [
+      "Arts",
+      "Journalism",
+      "Mass Communication"
+    ],
+    "education": [
+      "Bachelor's",
+      "Undergraduate"
+    ]
+  },
+  "Judge": {
+    "top_skills": [
+      "Legal Precedent",
+      "Evidence Evaluation",
+      "Judicial Writing",
+      "Courtroom Management",
+      "Stakeholder Management",
+      "Research",
+      "Communication",
+      "Time Management"
+    ],
+    "top_interests": [
+      "Legal Systems",
+      "Legal Reform",
+      "Judicial Philosophy",
+      "Rule Of Law",
+      "Business"
+    ],
+    "top_talents": [
+      "Analytical Thinking",
+      "Attention To Detail",
+      "Patience",
+      "Creativity",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Teamwork",
+      "Reading",
+      "Learning New Things",
+      "Problem Solving",
+      "Research"
+    ],
+    "specializations": [
+      "Law",
+      "Political Science",
+      "Social Sciences"
+    ],
+    "education": [
+      "Doctorate",
+      "Postgraduate"
+    ]
+  },
+  "Junior Accountant": {
+    "top_skills": [
+      "Bookkeeping",
+      "Accounts Payable",
+      "Bank Reconciliation",
+      "General Ledger",
+      "Payroll Processing",
+      "Presentation Skills",
+      "Project Management",
+      "Research"
+    ],
+    "top_interests": [
+      "Financial Compliance",
+      "Taxation",
+      "Audit",
+      "Accounting",
+      "Innovation"
+    ],
+    "top_talents": [
+      "Communication",
+      "Analytical Thinking",
+      "Leadership",
+      "Empathy",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Research",
+      "Networking",
+      "Reading",
+      "Helping Others",
+      "Writing"
+    ],
+    "specializations": [
+      "Accounting",
+      "Business",
+      "Finance"
+    ],
+    "education": [
+      "Intermediate",
+      "Matric"
+    ]
+  },
+  "Law Enforcement Officer": {
+    "top_skills": [
+      "Interview Techniques",
+      "Patrol Operations",
+      "Evidence Collection",
+      "Crime Scene Management",
+      "Report Writing",
+      "Time Management",
+      "Analytical Thinking",
+      "Leadership"
+    ],
+    "top_interests": [
+      "Law Enforcement",
+      "Forensics",
+      "Public Safety",
+      "Crime Prevention",
+      "Science"
+    ],
+    "top_talents": [
+      "Analytical Thinking",
+      "Leadership",
+      "Patience",
+      "Attention To Detail",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Networking",
+      "Writing",
+      "Research",
+      "Learning New Things",
+      "Problem Solving"
+    ],
+    "specializations": [
+      "Criminology",
+      "Law",
+      "Social Sciences"
+    ],
+    "education": [
+      "Matric",
+      "Undergraduate"
+    ]
+  },
+  "Lawyer": {
+    "top_skills": [
+      "Contract Drafting",
+      "Mediation",
+      "Statutory Interpretation",
+      "Litigation",
+      "Courtroom Advocacy",
+      "Leadership",
+      "Communication",
+      "Critical Thinking"
+    ],
+    "top_interests": [
+      "Legal Ethics",
+      "Justice",
+      "Constitutional Law",
+      "Human Rights",
+      "Writing"
+    ],
+    "top_talents": [
+      "Creativity",
+      "Analytical Thinking",
+      "Communication",
+      "Attention To Detail",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Teamwork",
+      "Writing",
+      "Learning New Things",
+      "Problem Solving",
+      "Helping Others"
+    ],
+    "specializations": [
+      "Law",
+      "Political Science",
+      "Social Sciences"
+    ],
+    "education": [
+      "Master's",
+      "Undergraduate"
+    ]
+  },
+  "ML Engineer": {
+    "top_skills": [
+      "Nlp",
+      "Pytorch",
+      "Tensorflow",
+      "Feature Engineering",
+      "Deep Learning",
+      "Mlops",
+      "Teamwork",
+      "Project Management"
+    ],
+    "top_interests": [
+      "Statistical Modeling",
+      "Artificial Intelligence",
+      "Robotics",
+      "Neural Networks",
+      "Community Service"
+    ],
+    "top_talents": [
+      "Attention To Detail",
+      "Analytical Thinking",
+      "Communication",
+      "Empathy",
+      "Leadership"
+    ],
+    "top_likes": [
+      "Helping Others",
+      "Teamwork",
+      "Reading",
+      "Research",
+      "Problem Solving"
+    ],
+    "specializations": [
+      "Computer Science",
+      "Data Science",
+      "Mathematics"
+    ],
+    "education": [
+      "Master's",
+      "Undergraduate"
+    ]
+  },
+  "Marketing Executive": {
+    "top_skills": [
+      "A/B Testing",
+      "Ppc Advertising",
+      "Seo",
+      "Influencer Marketing",
+      "Google Analytics",
+      "Analytical Thinking",
+      "Attention To Detail",
+      "Ms Office"
+    ],
+    "top_interests": [
+      "Digital Advertising",
+      "Customer Psychology",
+      "Consumer Behavior",
+      "Branding",
+      "Arts"
+    ],
+    "top_talents": [
+      "Empathy",
+      "Creativity",
+      "Patience",
+      "Critical Thinking",
+      "Attention To Detail"
+    ],
+    "top_likes": [
+      "Problem Solving",
+      "Reading",
+      "Writing",
+      "Research",
+      "Networking"
+    ],
+    "specializations": [
+      "Commerce",
+      "Journalism",
+      "Mass Communication"
+    ],
+    "education": [
+      "Intermediate",
+      "Undergraduate"
+    ]
+  },
+  "Military Officer": {
+    "top_skills": [
+      "Tactical Operations",
+      "Mission Planning",
+      "Command And Control",
+      "Military Law",
+      "Project Management",
+      "Stakeholder Management",
+      "Critical Thinking",
+      "Ms Office"
+    ],
+    "top_interests": [
+      "Military Science",
+      "National Defense",
+      "Defense Policy",
+      "National Security",
+      "Technology"
+    ],
+    "top_talents": [
+      "Patience",
+      "Empathy",
+      "Creativity",
+      "Attention To Detail",
+      "Communication"
+    ],
+    "top_likes": [
+      "Reading",
+      "Networking",
+      "Teamwork",
+      "Research",
+      "Problem Solving"
+    ],
+    "specializations": [
+      "Defense Studies",
+      "Political Science",
+      "Science"
+    ],
+    "education": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  "Musician": {
+    "top_skills": [
+      "Studio Recording",
+      "Ear Training",
+      "Music Theory",
+      "Sight Reading",
+      "Music Notation",
+      "Attention To Detail",
+      "Report Writing",
+      "Problem Solving"
+    ],
+    "top_interests": [
+      "Sound Design",
+      "Concert Performance",
+      "Music Production",
+      "Songwriting",
+      "Innovation"
+    ],
+    "top_talents": [
+      "Empathy",
+      "Communication",
+      "Creativity",
+      "Patience",
+      "Attention To Detail"
+    ],
+    "top_likes": [
+      "Learning New Things",
+      "Problem Solving",
+      "Helping Others",
+      "Teamwork",
+      "Networking"
+    ],
+    "specializations": [
+      "Arts",
+      "Music",
+      "Performing Arts"
+    ],
+    "education": [
+      "Bachelor's",
+      "High School"
+    ]
+  },
+  "Nurse": {
+    "top_skills": [
+      "Triage",
+      "Wound Care",
+      "Infection Control",
+      "Iv Therapy",
+      "Vital Sign Monitoring",
+      "Teamwork",
+      "Problem Solving",
+      "Stakeholder Management"
+    ],
+    "top_interests": [
+      "Patient Advocacy",
+      "Nursing Practice",
+      "Health Education",
+      "Clinical Care",
+      "Arts"
+    ],
+    "top_talents": [
+      "Critical Thinking",
+      "Attention To Detail",
+      "Analytical Thinking",
+      "Creativity",
+      "Leadership"
+    ],
+    "top_likes": [
+      "Networking",
+      "Helping Others",
+      "Research",
+      "Reading",
+      "Teamwork"
+    ],
+    "specializations": [
+      "Biology",
+      "Medicine",
+      "Science"
+    ],
+    "education": [
+      "Bachelor's",
+      "Undergraduate"
+    ]
+  },
+  "Pharmacist": {
+    "top_skills": [
+      "Drug Interaction Checking",
+      "Drug Dispensing",
+      "Compounding",
+      "Prescription Verification",
+      "Analytical Thinking",
+      "Critical Thinking",
+      "Attention To Detail",
+      "Leadership"
+    ],
+    "top_interests": [
+      "Clinical Research",
+      "Pharmaceutical Science",
+      "Medication Safety",
+      "Drug Therapy",
+      "Community Service"
+    ],
+    "top_talents": [
+      "Communication",
+      "Attention To Detail",
+      "Leadership",
+      "Creativity",
+      "Patience"
+    ],
+    "top_likes": [
+      "Teamwork",
+      "Reading",
+      "Research",
+      "Networking",
+      "Learning New Things"
+    ],
+    "specializations": [
+      "Biology",
+      "Medicine",
+      "Science"
+    ],
+    "education": [
+      "Master's",
+      "Postgraduate"
+    ]
+  },
+  "Photographer": {
+    "top_skills": [
+      "Composition",
+      "Lightroom",
+      "Lighting Techniques",
+      "Photo Retouching",
+      "Camera Handling",
+      "Research",
+      "Teamwork",
+      "Ms Office"
+    ],
+    "top_interests": [
+      "Fashion Photography",
+      "Visual Culture",
+      "Photo Journalism",
+      "Light And Shadow",
+      "Education"
+    ],
+    "top_talents": [
+      "Attention To Detail",
+      "Communication",
+      "Empathy",
+      "Patience",
+      "Leadership"
+    ],
+    "top_likes": [
+      "Helping Others",
+      "Teamwork",
+      "Reading",
+      "Networking",
+      "Learning New Things"
+    ],
+    "specializations": [
+      "Fine Arts",
+      "Journalism",
+      "Mass Communication"
+    ],
+    "education": [
+      "High School",
+      "Intermediate"
+    ]
+  },
+  "Policy Analyst": {
+    "top_skills": [
+      "Cost-Benefit Analysis",
+      "Policy Evaluation",
+      "Policy Modeling",
+      "Legislative Analysis",
+      "Communication",
+      "Attention To Detail",
+      "Analytical Thinking",
+      "Teamwork"
+    ],
+    "top_interests": [
+      "Social Justice",
+      "Governance",
+      "Policy Reform",
+      "Public Policy",
+      "Technology"
+    ],
+    "top_talents": [
+      "Leadership",
+      "Communication",
+      "Attention To Detail",
+      "Patience",
+      "Empathy"
+    ],
+    "top_likes": [
+      "Learning New Things",
+      "Problem Solving",
+      "Helping Others",
+      "Networking",
+      "Reading"
+    ],
+    "specializations": [
+      "Economics",
+      "Law",
+      "Social Sciences"
+    ],
+    "education": [
+      "PhD",
+      "Postgraduate"
+    ]
+  },
+  "Politician": {
+    "top_skills": [
+      "Coalition Building",
+      "Legislative Drafting",
+      "Campaign Management",
+      "Issue Advocacy",
+      "Ms Office",
+      "Analytical Thinking",
+      "Time Management",
+      "Report Writing"
+    ],
+    "top_interests": [
+      "Democracy",
+      "Governance",
+      "Civic Engagement",
+      "Social Reform",
+      "Education"
+    ],
+    "top_talents": [
+      "Analytical Thinking",
+      "Empathy",
+      "Attention To Detail",
+      "Communication",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Reading",
+      "Networking",
+      "Learning New Things",
+      "Writing",
+      "Teamwork"
+    ],
+    "specializations": [
+      "Economics",
+      "Law",
+      "Social Sciences"
+    ],
+    "education": [
+      "Bachelor's",
+      "Postgraduate"
+    ]
+  },
+  "Professor": {
+    "top_skills": [
+      "Course Design",
+      "Thesis Supervision",
+      "Pedagogical Methods",
+      "Peer Review",
+      "Grant Writing",
+      "Critical Thinking",
+      "Communication",
+      "Attention To Detail"
+    ],
+    "top_interests": [
+      "Academia",
+      "Intellectual Discourse",
+      "Scholarly Work",
+      "Higher Education",
+      "Business"
+    ],
+    "top_talents": [
+      "Patience",
+      "Analytical Thinking",
+      "Critical Thinking",
+      "Communication",
+      "Empathy"
+    ],
+    "top_likes": [
+      "Helping Others",
+      "Writing",
+      "Learning New Things",
+      "Networking",
+      "Teamwork"
+    ],
+    "specializations": [
+      "Business",
+      "Engineering",
+      "Science"
+    ],
+    "education": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  "Public Health Specialist": {
+    "top_skills": [
+      "Disease Surveillance",
+      "Biostatistics",
+      "Community Needs Assessment",
+      "Epidemiology",
+      "Teamwork",
+      "Communication",
+      "Research",
+      "Project Management"
+    ],
+    "top_interests": [
+      "Health Systems",
+      "Epidemiology",
+      "Health Equity",
+      "Disease Prevention",
+      "Writing"
+    ],
+    "top_talents": [
+      "Analytical Thinking",
+      "Creativity",
+      "Critical Thinking",
+      "Patience",
+      "Leadership"
+    ],
+    "top_likes": [
+      "Helping Others",
+      "Teamwork",
+      "Networking",
+      "Research",
+      "Reading"
+    ],
+    "specializations": [
+      "Medicine",
+      "Public Health",
+      "Science"
+    ],
+    "education": [
+      "Master's",
+      "PhD"
+    ]
+  },
+  "Public Relations Specialist": {
+    "top_skills": [
+      "Press Release Writing",
+      "Media Monitoring",
+      "Pr Strategy",
+      "Reputation Management",
+      "Critical Thinking",
+      "Attention To Detail",
+      "Analytical Thinking",
+      "Communication"
+    ],
+    "top_interests": [
+      "Corporate Communications",
+      "Public Relations",
+      "Digital Pr",
+      "Reputation Management",
+      "Business"
+    ],
+    "top_talents": [
+      "Critical Thinking",
+      "Leadership",
+      "Communication",
+      "Empathy",
+      "Attention To Detail"
+    ],
+    "top_likes": [
+      "Learning New Things",
+      "Reading",
+      "Problem Solving",
+      "Writing",
+      "Research"
+    ],
+    "specializations": [
+      "Business",
+      "Journalism",
+      "Mass Communication"
+    ],
+    "education": [
+      "Intermediate",
+      "Undergraduate"
+    ]
+  },
+  "Publisher": {
+    "top_skills": [
+      "Manuscript Evaluation",
+      "Editorial Management",
+      "Publishing Law",
+      "Digital Publishing",
+      "Leadership",
+      "Stakeholder Management",
+      "Data Analysis",
+      "Project Management"
+    ],
+    "top_interests": [
+      "Editorial Work",
+      "Book Industry",
+      "Literary Culture",
+      "Publishing",
+      "Community Service"
+    ],
+    "top_talents": [
+      "Leadership",
+      "Attention To Detail",
+      "Empathy",
+      "Critical Thinking",
+      "Patience"
+    ],
+    "top_likes": [
+      "Learning New Things",
+      "Teamwork",
+      "Problem Solving",
+      "Helping Others",
+      "Reading"
+    ],
+    "specializations": [
+      "Arts",
+      "Journalism",
+      "Mass Communication"
+    ],
+    "education": [
+      "Bachelor's",
+      "Undergraduate"
+    ]
+  },
+  "Research Scientist": {
+    "top_skills": [
+      "Matlab",
+      "Experimental Design",
+      "Hypothesis Testing",
+      "R Programming",
+      "Lab Techniques",
+      "Time Management",
+      "Critical Thinking",
+      "Ms Office"
+    ],
+    "top_interests": [
+      "Experimental Science",
+      "Stem",
+      "Knowledge Creation",
+      "Scientific Research",
+      "Technology"
+    ],
+    "top_talents": [
+      "Creativity",
+      "Communication",
+      "Critical Thinking",
+      "Leadership",
+      "Empathy"
+    ],
+    "top_likes": [
+      "Writing",
+      "Helping Others",
+      "Teamwork",
+      "Research",
+      "Learning New Things"
+    ],
+    "specializations": [
+      "Engineering",
+      "Mathematics",
+      "Science"
+    ],
+    "education": [
+      "Doctorate",
+      "PhD"
+    ]
+  },
+  "Sales Assistant": {
+    "top_skills": [
+      "Objection Handling",
+      "Cold Calling",
+      "Retail Sales",
+      "Lead Generation",
+      "Upselling",
+      "Communication",
+      "Data Analysis",
+      "Presentation Skills"
+    ],
+    "top_interests": [
+      "B2B Sales",
+      "Client Management",
+      "Revenue Growth",
+      "Sales",
+      "Community Service"
+    ],
+    "top_talents": [
+      "Communication",
+      "Creativity",
+      "Analytical Thinking",
+      "Attention To Detail",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Research",
+      "Problem Solving",
+      "Helping Others",
+      "Reading",
+      "Writing"
+    ],
+    "specializations": [
+      "Business",
+      "Commerce",
+      "Finance"
+    ],
+    "education": [
+      "High School",
+      "Matric"
+    ]
+  },
+  "School Counselor": {
+    "top_skills": [
+      "Academic Planning",
+      "Behavioral Assessment",
+      "Motivational Interviewing",
+      "Crisis Intervention",
+      "Attention To Detail",
+      "Problem Solving",
+      "Communication",
+      "Ms Office"
+    ],
+    "top_interests": [
+      "Child Development",
+      "Student Welfare",
+      "Career Guidance",
+      "Youth Development",
+      "Technology"
+    ],
+    "top_talents": [
+      "Analytical Thinking",
+      "Attention To Detail",
+      "Patience",
+      "Critical Thinking",
+      "Empathy"
+    ],
+    "top_likes": [
+      "Research",
+      "Helping Others",
+      "Teamwork",
+      "Reading",
+      "Writing"
+    ],
+    "specializations": [
+      "Arts",
+      "Education",
+      "Social Sciences"
+    ],
+    "education": [
+      "Postgraduate",
+      "Undergraduate"
+    ]
+  },
+  "Software Engineer": {
+    "top_skills": [
+      "Ci/Cd",
+      "Python",
+      "React",
+      "System Design",
+      "Java",
+      "Kubernetes",
+      "Docker",
+      "Teamwork"
+    ],
+    "top_interests": [
+      "Web Development",
+      "Competitive Programming",
+      "Cybersecurity",
+      "Open Source",
+      "Science"
+    ],
+    "top_talents": [
+      "Critical Thinking",
+      "Leadership",
+      "Empathy",
+      "Communication",
+      "Creativity"
+    ],
+    "top_likes": [
+      "Helping Others",
+      "Networking",
+      "Reading",
+      "Teamwork",
+      "Learning New Things"
+    ],
+    "specializations": [
+      "Computer Science",
+      "Engineering",
+      "Information Technology"
+    ],
+    "education": [
+      "Intermediate",
+      "Undergraduate"
+    ]
+  },
+  "Surgeon": {
+    "top_skills": [
+      "Pre-Op Assessment",
+      "Laparoscopic Surgery",
+      "Sterile Technique",
+      "Anesthesia Coordination",
+      "Teamwork",
+      "Research",
+      "Report Writing",
+      "Communication"
+    ],
+    "top_interests": [
+      "Surgical Education",
+      "Surgery",
+      "Surgical Research",
+      "Operative Care",
+      "Arts"
+    ],
+    "top_talents": [
+      "Empathy",
+      "Attention To Detail",
+      "Patience",
+      "Communication",
+      "Critical Thinking"
+    ],
+    "top_likes": [
+      "Networking",
+      "Reading",
+      "Problem Solving",
+      "Learning New Things",
+      "Research"
+    ],
+    "specializations": [
+      "Biology",
+      "Medicine",
+      "Science"
+    ],
+    "education": [
+      "Doctorate",
+      "Master's"
+    ]
+  },
+  "Therapist": {
+    "top_skills": [
+      "Cbt Techniques",
+      "Therapeutic Relationship Building",
+      "Trauma-Informed Care",
+      "Psychotherapy",
+      "Teamwork",
+      "Project Management",
+      "Analytical Thinking",
+      "Presentation Skills"
+    ],
+    "top_interests": [
+      "Trauma Recovery",
+      "Emotional Wellbeing",
+      "Psychological Research",
+      "Mental Health",
+      "Public Speaking"
+    ],
+    "top_talents": [
+      "Empathy",
+      "Analytical Thinking",
+      "Patience",
+      "Leadership",
+      "Attention To Detail"
+    ],
+    "top_likes": [
+      "Problem Solving",
+      "Reading",
+      "Research",
+      "Networking",
+      "Writing"
+    ],
+    "specializations": [
+      "Health Sciences",
+      "Medicine",
+      "Social Sciences"
+    ],
+    "education": [
+      "Bachelor's",
+      "Master's"
+    ]
+  },
+  "Visual Artist": {
+    "top_skills": [
+      "Sculpture",
+      "Life Drawing",
+      "Exhibition Design",
+      "Color Theory",
+      "Printmaking",
+      "Project Management",
+      "Teamwork",
+      "Stakeholder Management"
+    ],
+    "top_interests": [
+      "Fine Arts",
+      "Graphic Design",
+      "Illustration",
+      "Contemporary Art",
+      "Education"
+    ],
+    "top_talents": [
+      "Attention To Detail",
+      "Analytical Thinking",
+      "Empathy",
+      "Critical Thinking",
+      "Patience"
+    ],
+    "top_likes": [
+      "Reading",
+      "Problem Solving",
+      "Teamwork",
+      "Writing",
+      "Research"
+    ],
+    "specializations": [
+      "Arts",
+      "Design",
+      "Fine Arts"
+    ],
+    "education": [
+      "Bachelor's",
+      "Intermediate"
+    ]
+  },
+  "Writer": {
+    "top_skills": [
+      "Copywriting",
+      "Seo Writing",
+      "Poetry",
+      "Narrative Writing",
+      "Proofreading",
+      "Research",
+      "Time Management",
+      "Attention To Detail"
+    ],
+    "top_interests": [
+      "Literature",
+      "Language",
+      "Narrative Craft",
+      "Books",
+      "Science"
+    ],
+    "top_talents": [
+      "Communication",
+      "Critical Thinking",
+      "Attention To Detail",
+      "Creativity",
+      "Patience"
+    ],
+    "top_likes": [
+      "Helping Others",
+      "Teamwork",
+      "Problem Solving",
+      "Reading",
+      "Networking"
+    ],
+    "specializations": [
+      "Arts",
+      "Journalism",
+      "Mass Communication"
+    ],
+    "education": [
+      "Intermediate",
+      "Undergraduate"
+    ]
+  }
+}

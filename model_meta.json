@@ -1,0 +1,87 @@
+{
+  "best_model": "Gradient Boosting",
+  "model_type": "HistGradientBoostingClassifier",
+  "is_tree": true,
+  "cv_scores": {
+    "XGBoost": {
+      "mean": 97.7815,
+      "std": 0.5547,
+      "folds": [
+        98.0293,
+        98.0856,
+        97.973,
+        96.6779,
+        98.1419
+      ]
+    },
+    "Random Forest": {
+      "mean": 86.982,
+      "std": 0.5498,
+      "folds": [
+        87.3311,
+        87.0495,
+        86.3176,
+        87.7815,
+        86.4302
+      ]
+    },
+    "Gradient Boosting": {
+      "mean": 98.3671,
+      "std": 0.3434,
+      "folds": [
+        98.2545,
+        98.5923,
+        98.536,
+        97.7477,
+        98.705
+      ]
+    },
+    "Logistic Regression": {
+      "mean": 97.8266,
+      "std": 0.4385,
+      "folds": [
+        97.973,
+        98.4234,
+        97.9167,
+        97.0721,
+        97.7477
+      ]
+    }
+  },
+  "test_accuracy": {
+    "XGBoost": 97.3874,
+    "Random Forest": 87.8378,
+    "Gradient Boosting": 98.2883,
+    "Logistic Regression": 97.4775
+  },
+  "train_time_s": {
+    "XGBoost": 207.7,
+    "Random Forest": 17.3,
+    "Gradient Boosting": 275.0,
+    "Logistic Regression": 2.2
+  },
+  "n_classes": 37,
+  "n_features": 874,
+  "n_train": 8880,
+  "n_test": 2220,
+  "noise_robustness": {
+    "levels": [
+      0.0,
+      5.0,
+      10.0,
+      20.0,
+      30.0,
+      40.0,
+      50.0
+    ],
+    "accs": [
+      98.28828828828829,
+      89.27927927927928,
+      74.54954954954955,
+      30.45045045045045,
+      14.72972972972973,
+      9.36936936936937,
+      7.7027027027027035
+    ]
+  }
+}
